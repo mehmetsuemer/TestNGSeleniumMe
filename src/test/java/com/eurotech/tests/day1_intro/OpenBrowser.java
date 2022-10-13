@@ -20,6 +20,7 @@ public class OpenBrowser {
         //new chromeDriver() --> this part will open chrome browser
         WebDriver driver = new ChromeDriver(); //poly
         driver.get("https://www.eurotechstudy.com");
+        System.out.println("hello world");
 
 
 
